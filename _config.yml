@@ -1,30 +1,19 @@
-name: Iced Liberty
-favicon: null
-layout_spectrum: 0.8
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#10102d'
-    - '#47474f'
-    - '#c1c4a5'
-    - '#848d7b'
-    - '#f4f4fc'
+    - '#10102D'
+    - '#47474F'
+    - '#C1C4A5'
+    - '#848D7B'
+    - '#F4F4FC'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.802927
+  saturation: 0.671171
+cta: {}
+layout_spectrum: 0.8
+name: Iced Liberty
+opengraph: {}
 purpose:
   - name: engagement
-    item: null
-    url: null
+typography_spectrum: 0.394144
